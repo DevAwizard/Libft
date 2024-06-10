@@ -1,4 +1,7 @@
 
+![cover-libft](https://github.com/DevAwizard/Libft_by_anwu-yan/assets/153505451/ed6d1e9d-19a4-4f05-8e30-c3cc77b7ca10)
+
+
 <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
 
 # Project introduction
