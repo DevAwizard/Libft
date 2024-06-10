@@ -1,9 +1,6 @@
 
 ![cover-libft](https://github.com/DevAwizard/Libft_by_anwu-yan/assets/153505451/ed6d1e9d-19a4-4f05-8e30-c3cc77b7ca10)
 
-
-<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
-
 # Project introduction
 
 This is my first project completed at 42 School, where the primary goal is to create a custom C library, `libft`, which consists of various standard and additional functions that will be invaluable throughout the curriculum.
